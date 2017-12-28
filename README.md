@@ -5,18 +5,18 @@ Burger Controller. The app also calculates the burger's price depending on the n
 
 ## Homescreen
 
-![alt tag](https://github.com/GitMikeZ/React-Cuisine-App/blob/master/images/burger-1.jpg=320x540)
+![alt tag](https://github.com/GitMikeZ/React-Cuisine-App/blob/master/images/burger-1.jpg width="320" height="540")
 
 Fig. 1 Completed burger
 
 ## Checkout Screen
 
-![alt tag](https://github.com/GitMikeZ/React-Cuisine-App/blob/master/images/burger-2.jpg=320x540)
+![alt tag](https://github.com/GitMikeZ/React-Cuisine-App/blob/master/images/burger-2.jpg width="320" height="540")
 
 Fig. 2 Order price with ingredients
 
 ## Delivery Details
 
-![alt tag](https://github.com/GitMikeZ/React-Cuisine-App/blob/master/images/burger-3.jpg=320x540)
+![alt tag](https://github.com/GitMikeZ/React-Cuisine-App/blob/master/images/burger-3.jpg width="320" height="540")
 
 Fig. 3 Form submission for delivery
